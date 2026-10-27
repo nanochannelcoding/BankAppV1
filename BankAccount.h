@@ -16,5 +16,4 @@ public:
     virtual void display();
 };
 
-
 #endif //BANKAPPV1_BANKACCOUNT_H
