@@ -15,5 +15,4 @@ public:
     virtual bool withdraw(double amount)=0; // BankAccount is now abstract
     virtual void display();
 };
-
 #endif //BANKAPPV1_BANKACCOUNT_H
